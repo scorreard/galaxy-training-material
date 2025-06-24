@@ -1,0 +1,103 @@
+---
+layout: event
+title: "Advanced Galaxy Training : From development to batch processing and publication"
+
+# external: "https://galaxyproject.org/events/2025-03-10-galaxy-workshop-freiburg/"
+
+description: |
+    The Advanced Galaxy Training : From development to batch processing and publication is a week-long, in person, training for Galaxy's users who want to take their Galaxy skills to the next level.
+
+#cover-image: events/images/Galaxy_AGT2026.png
+cover-image-alt: logo for the Advanced Galaxy Training
+
+date_start: 2026-10-XX (Monday noon)
+date_end: 2026-10-XX+5 (Friday noon)
+
+
+#cost: free
+audience: Data scientists, Advanced Galaxy Users and Team leaders with data that will require batch processing (production). The training will be done in French, while materials (slides) will be in English.
+#contact_email: academy@galaxyproject.org
+
+# async: false
+mode: onsite
+
+#registration:
+#  link: https://forms.gle/cC9ynBrypEWwNA9u8
+#  deadline: 2025-02-14
+
+tags:
+- galaxy-interface
+- advanced
+
+contributions:
+    organisers:
+        - abretaud
+        - bebatut
+    instructors:
+#        - ahmedhamidawan
+#    funding:
+#        - eurosciencegateway
+
+location:
+  name: Paris (To be confirmed)
+#  address: Werthmannstrasse 4
+#  postcode: 79104
+  city: Paris (To be confirmed)
+  country: France
+
+infrastructure:
+  tiaas: false    # tiaas = Training Infrastructure as a Service, and can be requested (for free) from all major Galaxies
+
+  servers:
+    - server: https://usegalaxy.eu
+      name: Galaxy EU
+    - server: https://usegalaxy.fr
+      name: Galaxy FR
+
+# Program of your course
+# Add GTN tutorials by supplying the topic and tutorial name
+program:
+You can find an overview of the program [here](https://docs.google.com/spreadsheets/d/1k5ho82zilv4zgm94w_DLEnvxfLRhfO135KI6RHuXx44/edit?usp=sharing)
+---
+# Welcome to the Advanced Galaxy Training : From development to batch processing and publication
+
+Embark on a deep dive into the world of Galaxy, the leading platform for data-intensive biomedical research. This workshop is designed for data scientists, advanced Galaxy users and team leaders with data that will require batch processing (production). 
+This comprehensive workshop will increase your proficiency in workflow development and testing in Galaxy using the command line, ensure your workflows are FAIR through the use of RO-Crate and automatic documentation generation, scale your processes by batch processing on Galaxy using CLI and API.
+Some time will be dedicated for you to apply these skills to your own data and workflows with the support of trainers during two dedicated half-day sessions.
+The training will be done in French, while materials (slides) will be in English.
+
+## Topics:
+
+- Workflow development and testing
+- FAIR
+- Batch processing
+- Advanced Galaxy skills
+- Command Line Interface (CLI)
+
+## Learning Objectives:
+
+- Workflow development : How to develop and test a workflow in Galaxy using command line (CLI)
+- FAIR : How to make your workflow FAIR (Ro-crate, automatic documentation, etc)
+- Scaling : How to batch process on galaxy using command-line (CLI) and API
+- Bring your own work : Two half day sessions to work on your own data / workflow with the support of the trainers
+
+## Target audience:
+
+- Data scientists
+- Advanced Galaxy Users
+- Team leaders with data that will require batch processing (production)
+
+## Requirements:
+
+- Prior knowledge and experience using Galaxy
+- Prior knowledge and experience using command line
+- Fluent in French (materials will be in English and discussions will happen in French)
+
+## Schedule
+
+You can find an overview of the program [here](https://docs.google.com/spreadsheets/d/1k5ho82zilv4zgm94w_DLEnvxfLRhfO135KI6RHuXx44/edit?usp=sharing)
+
+## Registaion
+
+The number of places in this workshop is limited to 20 participants. The course takes place only in person (not online, not hybrid). There are no fees for the workshop but you need to care for your accommodation, travel costs and catering by yourself. The course will take place if at least 10 participants register.
+
